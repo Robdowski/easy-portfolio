@@ -19,17 +19,17 @@ const Navbar = () => {
               Home
             </a>
             <a class="navbar-item">
-              Examples
+              Github
             </a>
             <a class="navbar-item">
-              Documentation
+              LinkedIn
             </a>
             <span class="navbar-item">
               <a class="button is-info is-inverted">
                 <span class="icon">
-                  <i class="fab fa-github"></i>
+                  <i class="fas fa-folder"></i>
                 </span>
-                <span>Download</span>
+                <span>Portfolio</span>
               </a>
             </span>
           </div>
