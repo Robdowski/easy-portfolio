@@ -3,9 +3,9 @@ import React from 'react'
 const Portfolio = (props) => {
     return (
         <div>
-            <section className='hero is-fullheight is-success'>
-                <div className='hero-head has-text-centered mt-6'>
-                    <h2 className='title has-text-white'>{props.title}</h2>
+            <section id={props.id} className={`hero`}>
+                <div className='hero-head has-text-centered mt-3'>
+                    <h2 className='title has-text-white is-size-2'>{props.title}</h2>
                 </div>
                 <div className='hero-body'>
                     <div className='container' id='port-body'>

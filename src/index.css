@@ -21,3 +21,22 @@ code {
   cursor: pointer;
 }
 
+#main-hero{
+ background-image: linear-gradient(hsl(217, 71%, 45%),  hsl(204, 71%, 39%), hsl(171, 100%, 29%), hsl(141, 53%, 31%) )
+}
+
+#port1{
+  background-image: linear-gradient( hsl(141, 53%, 31%),  hsl(171, 100%, 29%) ) !important;
+}
+
+#port2{
+  background-image: linear-gradient(hsl(171, 100%, 29%),  hsl(204, 71%, 39%)  ) !important;
+}
+
+#port3{
+  background-image: linear-gradient(hsl(204, 71%, 39%),  hsl(217, 71%, 45%) ) !important;
+}
+
+#port4{
+  background-image: linear-gradient(hsl(217, 71%, 45%),  hsl(171, 100%, 29%)) !important;
+}
